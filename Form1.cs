@@ -67,6 +67,11 @@ namespace Gerador_De_Combinacoes
             #endregion
         }
 
+        /// <summary>
+        /// fgsdfgsdfgsdfgsdfgsdfg
+        /// </summary>
+        /// <param name="n"></param>
+        /// <returns></returns>
         static int[,] GenerateCombinations(int n)
         {
             int numCombinations = (int)Math.Pow(2, n);
